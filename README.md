@@ -1,3 +1,5 @@
+> 代码在 [master](https://github.com/chrononeko/chronocat/tree/master) 分支处照常更新。
+
 ### 如果你来自 [go-cqhttp#2471](https://github.com/Mrs4s/go-cqhttp/issues/2471) 并打算迁移，那么请先看完：
 
 # 方案一：使用 [Shamrock](https://github.com/linxinrao/Shamrock)
