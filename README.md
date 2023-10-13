@@ -27,7 +27,8 @@ Lagrange 是 QQNT 的协议实现。
 
 根据目前的消息：
 
-- Lagrange 即将迁移 Go 语言，不用担心 C# 内存消耗的问题
+- 【新！】Lagrange 进行了大幅度的内存优化，正常运行内存能够低至 30MB 左右，已完全满足小内存设备上的运行需求
+- 【新！】Lagrange 已经开始适配 OneBot 协议，进展顺利
 - 现在 QQNT 的 sign 已经差不多了，“一切交给时间”，大家可以不要着急，先等待一段时间。
 
 ![image](https://github.com/chrononeko/bugtracker/assets/20179549/258e46ff-ee09-4fc2-aa0d-c2503f6f755e)
