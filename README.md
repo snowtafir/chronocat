@@ -1,5 +1,3 @@
-> 代码在 [master](https://github.com/chrononeko/chronocat/tree/master) 分支处照常更新。
-
 ### 如果你来自 [go-cqhttp#2471](https://github.com/Mrs4s/go-cqhttp/issues/2471) 并打算迁移，那么请先看完：
 
 # 方案一：使用 [Shamrock](https://github.com/linxinrao/Shamrock)
@@ -30,7 +28,7 @@ Lagrange 是 QQNT 的协议实现。
 
 ### 有关 Chronocat
 
-Chronocat 仍处在早期开发阶段。如果文档有缺，可以加讨论群（[811724851，点击即可加群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=xX4FW_xMucouwJ8ZhaJ49nQSFEmBNmO1&authKey=4zuRY8%2BK6rpGD9yHwZU1CODaI8IndZWwkJyK8KITbAzjJEq23%2BIFwxD0PS7gm%2FB%2F&noverify=0&group_code=811724851)），我会优先编写大家需要的内容。此外：
+由于本人已经开学，Chronocat 目前已没有任何维护者，也不会再有更新了。所以：
 
 - 如果你的 go-cqhttp 已经完全无法使用，希望立即迁移且不想重构代码，我推荐使用上面的 Shamrock。
 - 如果你希望等待协议实现，我推荐等待上面的 Lagrange。
