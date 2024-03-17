@@ -24,7 +24,7 @@
     "oapi": "ts-node -T scripts/oapi.cts"
   },
   "devDependencies": {
-    "@chronocat/module-native": "0.0.40",
+    "@chronocat/module-native": "0.0.54",
     "@satorijs/element": "^2.5.1",
     "@types/busboy": "^1.5.0",
     "@types/js-yaml": "^4.0.6",
